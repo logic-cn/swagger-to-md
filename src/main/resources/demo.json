@@ -1,0 +1,14 @@
+{
+  "swagger": "2.0",
+  "info": {
+    "description": "<div style='font-size:14px;color:red;'>swagger-demo RESTful APIs</div>",
+    "version": "1.0",
+    "title": "swagger",
+    "termsOfService": "http://www.logic.com/",
+    "contact": {
+      "name": "demo@logic.com"
+    }
+  },
+  "host": "127.0.0.1:8999",
+  "basePath": "/"
+}
